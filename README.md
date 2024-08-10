@@ -1,9 +1,6 @@
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on BestPrice.gr
+# Hi there, I'm Nikos 👋
 - 🌱 I’m currently learning JavaScript
+- 💼 Content Engineer at BestPrice.gr
 
 
 
