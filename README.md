@@ -1,6 +1,5 @@
 # Hi there, I'm Nikos 👋
 - 💼 Content Engineer at BestPrice.gr
-- 🌱 I’m currently learning JavaScript
 
 
 ## 🌐 Socials:
