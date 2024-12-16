@@ -1,5 +1,6 @@
 # Hi there, I'm Nikos 👋
 - 💼 Content Engineer at BestPrice.gr
+- 👨‍💻 Currently attending Coding Factory at AUEB
 
 
 ## 🌐 Socials:
