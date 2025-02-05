@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikos</h1>
 <h3 align="center">💼 Content Engineer at BestPrice.gr 👨‍💻 Currently attending Coding Factory at AUEB</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
