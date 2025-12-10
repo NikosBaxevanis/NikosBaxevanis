@@ -1,4 +1,4 @@
-# 💫 Hello World
+# 💫 **Hello World**
 🛠 @BestPrice.gr<br>🎓 Coding Factory Alum<br>🌱 MSc Candidate in Computer Science and Applications<br>
 
 
