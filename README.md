@@ -1,6 +1,6 @@
 <div align="center">
-  **Hi 👋, I'm Nikos**
-</div>
+ <h2>Hi 👋, I'm Nikos</h2>
+
 
 ---
 
@@ -23,3 +23,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikosBaxevanis&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
