@@ -6,7 +6,7 @@
 
 ### 💼 Career & Academics
 
-* **Content Engineer** at BestPrice.gr
+* **Support Engineer** at BestPrice.gr
 * **Coding Factory** Alum
 * **MSc Candidate** in Computer Science and Applications
 
